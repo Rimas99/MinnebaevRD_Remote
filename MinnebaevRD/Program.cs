@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 // Миннебаев Рим Дамирович Ам-1-24
 //solve task2
+//solve task1
