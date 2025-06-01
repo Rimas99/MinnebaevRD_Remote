@@ -6,3 +6,4 @@ static public double Sqr(double X)
     return X * X;
 }
 Console.WriteLine("Квадрат числа 18 = " + Sqr(18));
+//solve task3
